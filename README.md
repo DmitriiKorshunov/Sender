@@ -7,9 +7,9 @@ This project is a part of the software of greenhouse.
 
 You should download this list of library. There are some links on the GitHub:
 
-https://github.com/adafruit/DHT-sensor-library
-https://github.com/adafruit/Adafruit_Sensor
-https://github.com/HelTecAutomation/Heltec_ESP32
+1) https://github.com/adafruit/DHT-sensor-library
+2) https://github.com/adafruit/Adafruit_Sensor
+3) https://github.com/HelTecAutomation/Heltec_ESP32
 
 "Sender" is the code for sending data to base module. 
 "Receiver" is the code for receiving data.
