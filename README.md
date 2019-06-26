@@ -20,7 +20,6 @@ https://github.com/HelTecAutomation/Heltec_ESP32
 1-st generation
 
 Sender module: Sender module dumps data from DHT11 and sends its to the base module.
-Options: 1) Temperature 2) Humidity Receiver module: Receiver module dumps data from 
-sender module and shows its on the screen.
+Options: 1) Temperature 2) Humidity 
 ------------------------------------------------------------------------------------
 
