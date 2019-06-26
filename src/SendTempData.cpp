@@ -1,9 +1,6 @@
 #include <Adafruit_Sensor.h>
-
 #include <DHT.h>
 #include <DHT_U.h>
-
-
 #include <Arduino.h>
 #include "heltec.h"
 #define BAND    433E6  //you can set band here directly,e.g. 868E6,915E6
