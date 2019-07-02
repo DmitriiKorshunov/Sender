@@ -21,6 +21,7 @@ You should download this list of library. There are some links on the GitHub:
 
 Sender module: Sender module dumps data from DHT11 and sends its to the base module.
 Options: 1) Temperature 2) Humidity 
+
 Receiver module: There is the code from example by https://github.com/HelTecAutomation/Heltec_ESP32.
 It is called:  OLED_LoRa_Receiver.ino
 
