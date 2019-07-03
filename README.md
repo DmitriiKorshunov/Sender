@@ -36,7 +36,5 @@ Options: 1) Temperature 2) Humidity.
 Also, system can include some sender modules. You can choose id for every device. 
 
 
-Receiver module: There is the code from example by https://github.com/HelTecAutomation/Heltec_ESP32.
-It is called:  OLED_LoRa_Receiver.ino
-
-------------------------------------------------------------------------------------
+Receiver module: This is the code from example ( https://github.com/HelTecAutomation/Heltec_ESP32 ) with some modifications.
+You can see it here: https://github.com/DmitriiKorshunov/TempReciever 
