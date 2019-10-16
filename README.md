@@ -38,3 +38,11 @@ Also, system can include some sender modules. You can choose id for every device
 
 Receiver module: This is the code from example ( https://github.com/HelTecAutomation/Heltec_ESP32 ) with some modifications.
 You can see it here: https://github.com/DmitriiKorshunov/TempReciever 
+
+-----------------------------------------------------------------------------------
+16.10.2019
+3-rd generation 
+
+Sender module has personal number. Please, write unificial number in variable "ND".
+Source code has two speciafication for DHT or DS sensors.
+This code as optimization as older versions.
